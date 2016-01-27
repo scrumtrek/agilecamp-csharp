@@ -1,0 +1,4 @@
+language: csharp
+notifications:
+  email: false
+solution: AgileCamp.Habitator.sln
