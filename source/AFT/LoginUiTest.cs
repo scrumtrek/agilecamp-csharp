@@ -3,6 +3,8 @@
     using NUnit.Framework;
     using OpenQA.Selenium.Chrome;
 
+    // PageObjects pattern https://code.google.com/p/selenium/wiki/PageObjects
+
     public class LoginUiTest
     {
         [Test]
