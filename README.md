@@ -2,6 +2,8 @@
 
 [![Build status](https://travis-ci.org/scrumtrek/agilecamp-csharp.svg?branch=master)](https://travis-ci.org/scrumtrek/agilecamp-csharp)
 
+[Как клонировать репозиторий?](https://github.com/scrumtrek/agilecamp-csharp/blob/master/git_rep_clone.pdf)
+
 Презентации:
  * TDD http://www.slideshare.net/AlexanderByndyu/tdd-net
  * Refactoring http://www.slideshare.net/AlexanderByndyu/refactoring-10053497
