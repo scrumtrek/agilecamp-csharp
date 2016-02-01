@@ -13,3 +13,5 @@
  * [Когда TDD начинает обгонять?](http://blog.byndyu.ru/2010/02/tdd.html)
  * [Видео. Пример разработки приложения с помощью TDD](http://blog.byndyu.ru/2010/02/tdd_18.html)
  * [Continuous Integration: Работа с Config-файлами](http://blog.byndyu.ru/2013/05/continuous-integration-config.html)
+ * [Пример использования SonarQube](http://nemo.sonarqube.org/)
+ * [Проект Habitator на Java](https://github.com/scrumtrek/agilecamp-java)
