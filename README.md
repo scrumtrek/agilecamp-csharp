@@ -17,3 +17,4 @@
  * [Continuous Integration: Работа с Config-файлами](http://blog.byndyu.ru/2013/05/continuous-integration-config.html)
  * [Пример использования SonarQube](http://nemo.sonarqube.org/)
  * [Проект Habitator на Java](https://github.com/scrumtrek/agilecamp-java)
+ * [Экстремальное программирование: Pair Programming](https://megamozg.ru/post/5284/)
